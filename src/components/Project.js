@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import '../styles/styles.css'
 
-const EmployeeImage = require('../images/')
-const legenesisImage = require('../images/legenesis_logo.JPG')
-const EcommerceImage = require('../images/')
-const CalendarImage = require('../images/')
+const EmployeeImage = require('../images/Tracker.png')
+const legenesisImage = require('../images/logo.png')
+const EcommerceImage = require('../images/E-commerce.png')
+const CalendarImage = require('../images/Calendar.png')
 
 export default function Project() {
 
